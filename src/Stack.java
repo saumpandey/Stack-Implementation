@@ -26,6 +26,10 @@ class Stack {
         else{
             System.out.println("stack underflo");
         }
+
+
+
+
         return response;
     }
     public void peek(){
